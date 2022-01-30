@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandosoft&label=Profile%20views&color=0e75b6&style=flat" alt="brandosoft" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandosoft" alt="brandosoft" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=brandosoft" alt="brandosoft" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [ŚLEDZIK KOTA (REACT)](https://github.com/BrandoSoft/sledzik-front)
 
-- 🔭 I’m currently working on [TWOJA IMPREZA](https://github.com/BrandoSoft/twoja-impreza)
+- 🔭 I’m currently working on:
+      - [TWOJA IMPREZA_2 Backend](https://github.com/BrandoSoft/twoja-impreza_v2) express.js
+      - [TWOJA IMPREZA_2 Frontend](https://github.com/BrandoSoft/twoja-impreza_v2-front) React
 
 - 🌱 I’m currently learning **TypeScript, React**
 
