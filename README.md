@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ŚLEDZIK KOTA (REACT)](https://github.com/BrandoSoft/sledzik-front)
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on:<br/>
       - [TWOJA IMPREZA_2 Backend](https://github.com/BrandoSoft/twoja-impreza_v2) express.js<br/>
       - [TWOJA IMPREZA_2 Frontend](https://github.com/BrandoSoft/twoja-impreza_v2-front) React
 
