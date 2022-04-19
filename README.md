@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **artur@kolodziejdev.pl**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check My Gallup Test Strengths: <a href="https://github.com/BrandoSoft/BrandoSoft/blob/master/Gallup%20EN.pdf"> ENG </a> <a href="https://github.com/BrandoSoft/BrandoSoft/blob/master/Gallup.pdf"> PL </a></h3>
 <p align="left">
 </p>
 
