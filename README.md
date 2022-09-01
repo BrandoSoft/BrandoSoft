@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ŚLEDZIK KOTA (REACT)](https://github.com/BrandoSoft/sledzik-front)
+- 🔭 I’m currently working on [Always NoobTeam (REACT + TS)](https://github.com/BrandoSoft/noobteam_front)
+- 🔭 I’m currently working on [Always NoobTeam (Express + TS)](https://github.com/BrandoSoft/noobteam_back)
 
-- 🔭 I’m currently working on:<br/>
-      - [TWOJA IMPREZA_2 Backend](https://github.com/BrandoSoft/twoja-impreza_v2) express.js<br/>
-      - [TWOJA IMPREZA_2 Frontend](https://github.com/BrandoSoft/twoja-impreza_v2-front) React
+Live: http://noobteam.kolodziejdev.pl/
 
 - 🌱 I’m currently learning **TypeScript, React**
 
