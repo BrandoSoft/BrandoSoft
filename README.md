@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Always NoobTeam (REACT + TS)](https://github.com/BrandoSoft/noobteam_front)
 - 🔭 I’m currently working on [Always NoobTeam (Express + TS)](https://github.com/BrandoSoft/noobteam_back)
 
-Live: http://noobteam.kolodziejdev.pl/
+Live: https://noobteam.kolodziejdev.pl/
 
 - 🌱 I’m currently learning **TypeScript, React**
 
